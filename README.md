@@ -1,0 +1,3 @@
+- 👋 Olá , me chamo Fernando Carelli, Sou apaixonado por programação, recém formado e em transição de carreira.
+- Aqui vou postando um pouco dos meus estudos.
+- Nesse Momento Estudando as linguagem Python e Java.
